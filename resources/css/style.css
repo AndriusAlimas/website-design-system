@@ -6,6 +6,11 @@
   padding: 0;
   margin: 0;
 }
+body{
+    background-image: url("../img/abstract-colorful-geometry.jpg");
+    background-size: center;
+    background-repeat: no-repeat;
+}
   html {
     box-sizing: border-box;
   }
