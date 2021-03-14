@@ -14,11 +14,17 @@
   header{
     background-color: cadetblue;
     width: 100%;
+    position: fixed;
+    z-index: 1;
  }
 /* navbar */
  nav{
-    padding: 20px 0;
+    padding: 10px 4em;
  }
  nav li{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
     display: inline-block;
+    width: 7em;
  }
