@@ -1,0 +1,32 @@
+/* reset default settings */
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+  html {
+    box-sizing: border-box;
+  }
+
+/* header */
+  header{
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+ }
+/* navbar */
+ 
+ nav li{
+    font-family: 'Changa', sans-serif;
+    font-size: 25px;
+    display: inline-block;
+    width: 11em;
+ }
+ a{
+     color: #94330d !important;
+     text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px;
+ }
+
+ 
