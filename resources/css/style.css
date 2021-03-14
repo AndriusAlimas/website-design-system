@@ -21,6 +21,13 @@ body{
     position: fixed;
     z-index: 1;
  }
+ .title{
+     color: #FFF;
+     text-shadow: 3px 5px 2px #474747;
+     text-align: center;
+     margin: 50px auto;
+     font-size: 3rem;
+ }
 /* navbar */
  
  nav li{
