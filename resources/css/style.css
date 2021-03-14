@@ -22,23 +22,32 @@ body{
     z-index: 1;
  }
  .title{
+     position: relative;
      color: #FFF;
      text-shadow: 3px 5px 2px #474747;
      text-align: center;
      margin: 50px auto;
      font-size: 3rem;
  }
-/* navbar */
- 
- nav li{
+
+/* navbar  and footer */
+ nav li, footer{
     font-family: 'Changa', sans-serif;
     font-size: 25px;
     display: inline-block;
     width: 11em;
  }
- a{
+ a, footer{
      color: #94330d !important;
      text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px;
  }
+ footer{
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+ }
+
+ /* sections */
 
  
