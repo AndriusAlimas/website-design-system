@@ -81,11 +81,34 @@ section p{
     align-items: center;
     transition: .3s ease;
 }
+.fonts-box p{
+    font-size: 1.8rem;
+    font-family: 'Dancing Script', cursive;
+    margin: 20px;
+    min-height: 50px;
+}
+.underline{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: 700;
+}
+.italic{
+    font-style: italic;
+}
+
 .flexbox-center {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
+    margin-top: 5vh;
+}
+.flexbox-left{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
     margin-top: 5vh;
 }
 #blue{
@@ -122,7 +145,6 @@ section p{
 .hide{
     display: none;
 }
-
 
 @media only screen and (min-width: 1300px){
     section p{
