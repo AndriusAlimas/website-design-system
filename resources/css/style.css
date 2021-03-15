@@ -85,19 +85,19 @@ section p{
     margin: 20px;
     min-height: 50px;
 }
-#dancingScript p{
+.dancingScript {
     font-family: 'Dancing Script', cursive;
 }
-#fredoka p{
+.fredoka {
     font-family: 'Fredoka One', cursive;
 }
-#Cinzel p{
+.Cinzel {
     font-family: 'Cinzel', serif;
 }
-#Monoton p{
+.Monoton {
     font-family: 'Monoton', cursive;
 }
-#pixelFont p{
+.pixelFont {
     font-family: 'VT323', monospace;
 }
 .underline{
