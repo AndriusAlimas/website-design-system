@@ -82,7 +82,7 @@ section p{
     transition: .3s ease;
 }
 .fonts-box p{
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     margin: 20px;
     min-height: 50px;
 }
@@ -91,6 +91,9 @@ section p{
 }
 #fredoka p{
     font-family: 'Fredoka One', cursive;
+}
+#Cinzel p{
+    font-family: 'Cinzel', serif;
 }
 .underline{
     text-decoration: underline;
