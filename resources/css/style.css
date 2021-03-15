@@ -109,7 +109,10 @@ section p{
 .italic{
     font-style: italic;
 }
-
+.heading{
+    font-weight: 700;
+    font-size: 26px;
+}
 .flexbox-center {
     display: flex;
     flex-wrap: wrap;
