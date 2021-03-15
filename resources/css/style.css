@@ -103,6 +103,15 @@ section p{
 #brown{
     background-color: #563117;
 }
+#red{
+    background-color: #E22B1C;
+}
+#cyan{
+    background-color: #04CFB9;
+}
+#dark-purple{
+    background-color: #2B246D;
+}
 /* hover color box */
 .color-box:hover > p.hide{
     display: inline-block;
